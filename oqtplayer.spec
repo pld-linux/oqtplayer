@@ -4,11 +4,11 @@ Name:		oqtplayer
 Version:	0.5
 Release:	1
 License:	LGPL
-Group:		Applications/Graphics
+Group:		Applications/Multimedia
 Source0:	http://prdownloads.sourceforge.net/openquicktime/%{name}-%{version}.tgz
 URL:		http://openquicktime.sourceforge.net/
-BuildRequires:	openquicktime-devel
 BuildRequires:	SDL-devel
+BuildRequires:	openquicktime-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
