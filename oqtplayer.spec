@@ -1,5 +1,5 @@
 Summary:	Simple player that uses OpenQuicktime library
-Summary(pl):	Prosty odtwarzacz korzystaj±cy z biblioteki OpenQuicktime
+Summary(pl.UTF-8):   Prosty odtwarzacz korzystajÄ…cy z biblioteki OpenQuicktime
 Name:		oqtplayer
 Version:	0.5
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 OQTPlayer is simple player that uses OpenQuicktime library.
 
-%description -l pl
-OQTPlayer jest prostym odtwarzaczem korzystaj±cym z biblioteki
+%description -l pl.UTF-8
+OQTPlayer jest prostym odtwarzaczem korzystajÄ…cym z biblioteki
 OpenQuicktime.
 
 %prep
